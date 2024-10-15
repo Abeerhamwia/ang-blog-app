@@ -1,0 +1,11 @@
+.btn-sub {
+    height: 58px;
+    border: none;
+    font-size: 13px;
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.card-body h4 {
+    color: var(--body-text-color);
+}
